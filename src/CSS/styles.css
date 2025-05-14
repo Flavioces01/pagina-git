@@ -1,0 +1,25 @@
+body {
+    background-image: linear-gradient(to right, rgb(152, 152, 152),rgb(174, 174, 174) );
+    margin: 1px;
+    padding: 0;
+    font-family: Copperplate Gothic;
+  }
+ 
+  button{
+    background-color: #ffffff;
+    font-size: 16px;
+    border-radius: 8px;
+    border: 2px solid #000000;
+    cursor: pointer;
+  }
+
+
+  img {
+    border: 2px solid #000000; 
+    border-radius: 5px;
+    box-shadow: 8px 8px;
+    margin: 10px;
+    
+  }
+  
+ 
